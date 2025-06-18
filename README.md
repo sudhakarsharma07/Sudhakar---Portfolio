@@ -19,7 +19,7 @@ This is a **responsive personal portfolio website** built using **React + Vite**
 - 🧠 JavaScript (ES6+)
 
 ## 📁 Folder Structure
-
+"
 my-portfolio/
 ├── public/
 │ └── assets/ # Images, logos, etc.
@@ -32,6 +32,7 @@ my-portfolio/
 ├── package.json
 ├── vite.config.js
 └── README.md
+"
 
 
 ## 📦 Installation & Setup
